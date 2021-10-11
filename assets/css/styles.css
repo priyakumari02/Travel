@@ -6,8 +6,7 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  /* Change favorite color to match images */
-  /*Green dark 190 - Green 171 - Grren Blue 200*/
+
   --hue-color: 190;
 
   /* HSL color mode */
@@ -869,7 +868,6 @@ input {
   }
 }
 
-/* For medium devices */
 @media screen and (min-width: 568px) {
   .video__container {
     display: grid;
@@ -999,7 +997,7 @@ input {
   }
 }
 
-/* For large devices */
+
 @media screen and (min-width: 1024px) {
   .container {
     margin-left: auto;
@@ -1076,7 +1074,6 @@ input {
   }
 }
 
-/* For tall screens on mobiles y desktop*/
 @media screen and (min-height: 721px) {
   body {
     margin: 0;
